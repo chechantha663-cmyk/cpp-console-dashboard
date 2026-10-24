@@ -25,7 +25,7 @@ A structured C++ console application implementing user authentication, mathemati
 
 1. **Clone the repository:**
    ```bash
-   g++ Acount.cpp -o app
+   
    git clone [https://github.com/chechantha663-cmyk/cpp-console-dashboard.git](https://github.com/chechantha663-cmyk/cpp-console-dashboard.git)
    cd cpp-console-dashboard
    
